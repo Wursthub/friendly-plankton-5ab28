@@ -10,7 +10,7 @@ sections:
       - label: Find out where
         url: /pricing
         style: primary
-      - label: ''
+      - label: How to get there
         url: /features
         style: secondary
     image: images/LEWSE6497.JPG
