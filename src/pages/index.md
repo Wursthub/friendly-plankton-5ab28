@@ -13,15 +13,6 @@ sections:
       - label: How to get there
         url: /features
         style: secondary
-      - label: lorem-ipsum
-        url: lorem-ipsum
-        style: link
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
     image: images/144275268_170535691527806_5105807613314578618_n.jpg
     image_alt: Hero section placeholder image
     media_position: left
