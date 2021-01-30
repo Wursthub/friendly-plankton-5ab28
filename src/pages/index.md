@@ -4,9 +4,8 @@ sections:
   - type: hero_section
     title: We are getting married
     subtitle: 'Save the date: 18.09.2021'
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: |
+      Joanna Kaczanowska & Christoph Götz
     actions:
       - label: Try Free
         url: /pricing
