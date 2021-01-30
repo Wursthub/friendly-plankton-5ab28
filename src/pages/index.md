@@ -7,7 +7,7 @@ sections:
     content: |
       Joanna Kaczanowska & Christoph Götz
     actions:
-      - label: Find out where
+      - label: What will happen
         url: /pricing
         style: primary
       - label: How to get there
