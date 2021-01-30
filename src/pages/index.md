@@ -13,7 +13,7 @@ sections:
       - label: How to get there
         url: /features
         style: secondary
-    image: images/LEWSE6497.JPG
+    image: images/144275268_170535691527806_5105807613314578618_n.jpg
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
