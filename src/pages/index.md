@@ -7,7 +7,7 @@ sections:
     content: |
       Joanna Kaczanowska & Christoph Götz
     actions:
-      - label: Try Free
+      - label: Find out where
         url: /pricing
         style: primary
       - label: Learn More
