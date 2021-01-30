@@ -10,7 +10,7 @@ sections:
       - label: What will happen
         url: /pricing
         style: primary
-      - label: How to get there
+      - label: Contact us
         url: /features
         style: secondary
     image: images/144275268_170535691527806_5105807613314578618_n.jpg
