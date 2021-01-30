@@ -10,7 +10,7 @@ sections:
       - label: Find out where
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: ''
         url: /features
         style: secondary
     image: images/LEWSE6497.JPG
